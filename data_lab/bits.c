@@ -3,7 +3,7 @@
  * 
  * <Please put your name and userid here>
  * name: Sirui Kang
- UID: 305743768
+ UID: 305******
 
  * bits.c - Source file with your solutions to the Lab.
  *          This is the file you will hand in to your instructor.
