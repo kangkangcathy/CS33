@@ -36,7 +36,7 @@ team_t team = {
     /* First and last name */
     "Sirui Kang",
     /* UID */
-    "305743768",
+    "305*******",
     /* Custom message (16 chars) */
     "hihihi I'm Catherine",
 };
